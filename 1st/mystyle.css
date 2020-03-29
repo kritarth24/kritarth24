@@ -1,0 +1,150 @@
+body
+{
+  margin:0px;
+}
+*
+{
+  text-align: center;
+}
+#aaa
+{
+  color:DarkTurquoise;
+  font-size: 50px;
+}
+#abc
+{ font-family: 'Satisfy', cursive;
+  background-color:purple;
+}
+#def
+{
+ margin:100px;
+}
+#ghi
+{
+  margin:100px;
+}
+.do
+{
+  color:lightseagreen;
+  margin:50px;
+}
+.two
+{
+  width: 500px;
+  margin-left: 300px;
+  line-height: 23px;
+  word-spacing: 5px;
+font-family: 'Patrick Hand', cursive;
+}
+.ttt
+{
+  margin-bottom: 75px;
+  font-size:40px;
+  color:lightseagreen;
+}
+.three
+{
+  margin-left: 225px;
+  font-size: 22px;
+  color:lightseagreen;
+}
+.six
+{
+  margin-right: 500px;
+  margin-bottom: auto;
+  font-size: 22px;
+  color:lightseagreen;
+}
+.eight
+{
+  color:lightseagreen;
+}
+.eleven
+{
+  color:lightseagreen;
+}
+.thirteen
+{
+  color:lightseagreen;
+}
+#don
+{
+  margin:100px;
+}
+.four
+{
+  width:350px;
+  padding-left: 500px;
+  text-align: left;
+  font-family: 'Comic Neue', cursive;
+  word-spacing:5px;
+  line-height: 22px;
+}
+.seven
+{
+  width:300px;
+  margin-left: 300px;
+  font-family: 'Comic Neue', cursive;
+  text-align: left;
+  word-spacing: 5px;
+  line-height: 22px;
+}
+.nine
+{
+  font-family: 'Comic Neue', cursive;
+  width:350px;
+  word-spacing: 5px;
+  line-height: 22px;
+  padding-left: 420px;
+  text-align:left;
+}
+.tweleve
+{
+ text-align:justify;
+  margin-left: 450px;
+  font-family: 'Comic Neue', cursive;
+  width:350px;
+  word-spacing: 5px;
+  line-height: 18px;
+}
+.ddd
+{
+float:right;
+}
+.chill
+{
+  float:left;
+  padding-left: 350px;
+  padding-right: 20px;
+}
+.contact
+{
+  height: 100px;
+  margin:100px 0px 0px 0px;
+  padding-top: 30px;
+  background-color: MediumTurquoise;
+  text-align:center;
+}
+a#pqr
+{
+  margin:15px;
+}
+.five
+{
+  text-decoration: none;
+}
+.ten
+{
+text-decoration: none;
+}
+.copyright
+{
+  font-size:8px;
+}
+hr
+{
+  border: 6px dotted lightgrey;
+  border-top: none;
+  width:4%;
+  margin: 100px auto;
+}
